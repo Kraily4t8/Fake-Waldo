@@ -1,10 +1,14 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Overwold1","order":1,"parentId":0,"scrollX":619,"scrollY":340},
-{"id":2,"expanded":true,"name":"MAP002","order":2,"parentId":0,"scrollX":1254,"scrollY":741},
-{"id":3,"expanded":true,"name":"MAP003","order":3,"parentId":0,"scrollX":816,"scrollY":1100},
+{"id":1,"expanded":false,"name":"Overwold1","order":1,"parentId":0,"scrollX":483.3333333333333,"scrollY":423.6666666666667},
+{"id":2,"expanded":true,"name":"MAP002","order":2,"parentId":0,"scrollX":841.7142857142857,"scrollY":515.1428571428571},
+{"id":3,"expanded":true,"name":"MAP003","order":3,"parentId":0,"scrollX":982,"scrollY":839},
 {"id":4,"expanded":false,"name":"MAP004","order":4,"parentId":0,"scrollX":816,"scrollY":1100},
 {"id":5,"expanded":false,"name":"MAP005","order":5,"parentId":0,"scrollX":816,"scrollY":1100},
 {"id":6,"expanded":false,"name":"MAP006","order":6,"parentId":0,"scrollX":816,"scrollY":1100},
-{"id":7,"expanded":false,"name":"MAP007","order":7,"parentId":0,"scrollX":816,"scrollY":1100}
+{"id":7,"expanded":false,"name":"MAP007","order":7,"parentId":0,"scrollX":816,"scrollY":1100},
+{"id":8,"expanded":true,"name":"Hero's Home","order":8,"parentId":0,"scrollX":982,"scrollY":601,"quick":false},
+{"id":9,"expanded":false,"name":"Inn","order":9,"parentId":0,"scrollX":816,"scrollY":640,"quick":false},
+{"id":10,"expanded":false,"name":"Bar","order":10,"parentId":0,"scrollX":816,"scrollY":640,"quick":false},
+{"id":11,"expanded":false,"name":"Artillery","order":11,"parentId":0,"scrollX":982,"scrollY":601,"quick":false}
 ]
